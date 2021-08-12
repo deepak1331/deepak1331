@@ -4,7 +4,7 @@
   Personally I like SpringBoot framework, as it makes our life so easy.
 - 👀 I’m interested in Java Technologies
 - 🌱 I’m currently learning Spring Cloud / Microservices 
-- 📫 How to reach me : mail me on: deepakyadav.java@gmail.com
+- 📫 How to reach me : mail me on: deepakyadav1331@gmail.com
 
 
 
